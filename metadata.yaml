@@ -1,11 +1,16 @@
 _repo: When-the-Sun-went-out_72943
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72943-h/images/cover.jpg
 creator:
   author:
     agent_name: Stone, Leslie F.
     gutenberg_agent_id: '56867'
     url: http://www.gutenberg.org/2009/agents/56867
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72943#When-the-Sun-went-out
 gutenberg_issued: '2024-02-12'
 gutenberg_type: Text
 identifiers:
